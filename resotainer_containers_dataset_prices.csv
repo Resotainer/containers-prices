@@ -1,0 +1,17 @@
+container_type,category,inside_length_mm,inside_width_mm,capacity_m3,resotainer_expert_note,external_length_mm,external_width_mm,external_height_mm,iso_code,price_from
+20' Standard (GP),Dry / General Purpose,5900.0,2352.0,33.2,Type universel. Très forte réutilisation. Base pour benchmarks de charge volumique.,6058.0,2438.0,2591.0,22 G1,"≈ 2,090 € HT (neuf)"
+40' Standard (GP),Dry / General Purpose,12032.0,2352.0,67.7,Volume doublé vs 20'. Optimiser calage pour limiter l’air.,12192.0,2438.0,2591.0,42 G1,"≈ 4,100 € HT (neuf)"
+40' High Cube (GP),Dry / General Purpose,12032.0,2350.0,76.3,Idéal charges volumineuses. Attention gabarits/hauteurs d’entrepôt.,12192.0,2438.0,2896.0,45 G1,"≈ 3,950 € HT (neuf)"
+45' High Cube (GP),Dry / General Purpose,13556.0,2352.0,86.0,Volume maximal ISO. Vérifier compatibilité portes/rampe.,13716.0,2438.0,2896.0,L5 G1,"≈ 5,500 € HT (neuf)"
+20' Reefer,Reefer (Refrigerated),5450.0,2280.0,28.1,Chaîne du froid stricte. Optimiser consigne de température.,6058.0,2438.0,2591.0,22 R1,"≈ 6,499 € HT (occasion)"
+40' Reefer High Cube,Reefer (Refrigerated),11599.0,2290.0,67.7,Export agro/pharma. Surveiller consommation énergétique.,,,,45 R1,"≈ 20,600 € HT (neuf)"
+20' Open Top,Open Top / Special,5895.0,2350.0,32.5,Chargement par le haut; prévoir bâche/réemploi.,6058.0,2438.0,2591.0,22 U1,"≈ 2,500 € HT (neuf)"
+40' Open Top,Open Top / Special,12029.0,2350.0,66.8,Grande ouverture toit; arrimage renforcé.,12192.0,2438.0,2591.0,42 U1,"≈ 3,800 € HT (neuf)"
+20' Hardtop,Hardtop / Special,5886.0,2342.0,31.9,Toit démontable; utile équipements; attention manutention.,,,,22 U6,"≈ 3,000 € HT (neuf)"
+40' Hardtop,Hardtop / Special,12020.0,2342.0,67.2,Polyvalent; toit démontable; utile pour machines.,,,,42 U6,"≈ 4,500 € HT (neuf)"
+40' Hardtop High Cube,Hardtop / Special,12032.0,2352.0,74.1,Hauteur supplémentaire; attention restrictions en rail/route.,,,,45 U6,"≈ 5,500 € HT (neuf)"
+20' Flatrack,Flatrack / Platform,5638.0,2438.0,30.7,Projet/industrie; charges hors gabarit; expertise arrimage indispensable.,,,,22 P3,"≈ 1,850 € HT (neuf)"
+40' Flatrack High Cube / 40' Platform,Flatrack / Platform,11652.0,2347.0,61.9,,,,,45 P3,
+8' DRY,Dry / General Purpose,,,,"Smaller, ideal for tight spaces",2438.0,2438.0,2591.0,8 G1,"≈ 1,850 € HT (neuf)"
+10' DRY,Dry / General Purpose,,,,Popular for businesses needing extra space,3048.0,2438.0,2591.0,10 G1,"≈ 2,150 € HT (neuf)"
+20' Double portes,Dry / General Purpose,,,,Two doors for better accessibility,6058.0,2438.0,2591.0,22 G1,"≈ 2,500 € HT (neuf)"
